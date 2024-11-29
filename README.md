@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**ryma-tharouma/ryma-tharouma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Tharouma Ryma 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am an **intelligent Informatic Systems** student with a passion for **AI** and **machine learning**. I enjoy exploring new technologies and building impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+- 🎓 Studying **ntelligent Informatic Systems**.
+- 💻 Previously studied **Computer and Software Systems Engineering**.
+- 🔍 Passionate about **Artificial Intelligence** and its applications.
+- 🌱 Currently learning more about **deep learning**, **data science**, and **AI systems**.
+
+## 📫 Get in Touch
+- 📧 Email: [rymatharoumaa@gmail.com](mailto:your.email@example.com)
+
+Feel free to check out my repositories and contribute to any projects!
+
